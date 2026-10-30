@@ -1,6 +1,6 @@
 # mini-drivebrain
 
-By now you should be familiar with our main compute module, [Drivebrain](https://github.com/hytech-racing/drivebrain). This project aims to match parts of that environment that matter, so you can get familiar with what you'll be working with for the rest of the year.
+By now you should be familiar with our main compute module, [Drivebrain](). This project aims to match parts of that environment that matter, so you can get familiar with what you'll be working with for the rest of the year.
 
 ## Project Description
 
