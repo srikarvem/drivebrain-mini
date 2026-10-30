@@ -23,8 +23,7 @@ You will have access to a Raspberry Pi 4/5 with a simple [GPIO Flowmeter](https:
 
 When you successfully complete and demo your completed code working in person, we'll ask you a few questions about what you wrote, how you validated it, etc. There are no "set list of questions" or "right answers" for this, we probably will just ask whatever comes to mind first depending on your implementation. If for any reason it is concerningly clear you have no idea what you are talking about or how your code works, we probably will not mark you as completed. 
 
-## LLM Policy
-We love using LLMs for research or writing a lot of redundant code, but for this project specifically we kindly ask that you do not use it to one-shot the project or write a majority of the code. Using it for small or redundant bits is fine, but there really is no point to any of this if you have no idea what is going on in this project (which is identical to the codebase you will spend most of your time on).
+
 
 ## Build
 ```bash
